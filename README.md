@@ -30,4 +30,4 @@
 | Diseño             | 1       |
 | Calidad del código     | 1.5     |
 | Funcionalidad      | 1.5      |
-
+n
